@@ -1,0 +1,8 @@
+C:\Users\gadga\source\repos\StopWatch\StopWatch\bin\Debug\StopWatch.exe.config
+C:\Users\gadga\source\repos\StopWatch\StopWatch\bin\Debug\StopWatch.exe
+C:\Users\gadga\source\repos\StopWatch\StopWatch\bin\Debug\StopWatch.pdb
+C:\Users\gadga\source\repos\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.AssemblyReference.cache
+C:\Users\gadga\source\repos\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.SuggestedBindingRedirects.cache
+C:\Users\gadga\source\repos\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\gadga\source\repos\StopWatch\StopWatch\obj\Debug\StopWatch.exe
+C:\Users\gadga\source\repos\StopWatch\StopWatch\obj\Debug\StopWatch.pdb
